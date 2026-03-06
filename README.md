@@ -2,6 +2,17 @@
 
 This project performs an end-to-end Exploratory Data Analysis (EDA) and Data Cleaning on a Zepto sales dataset using SQL. The analysis focuses on understanding product performance, inventory health, and revenue potential for a quick-commerce business model.
 
+## 📂 Project Structure
+```text
+├── data/
+│   └── zepto_sales_data.csv
+├── scripts/
+│   └── zepto_analysis.sql
+├── output_samples/
+│   └── query_results_screenshot.png
+└── README.md
+
+
 🚀 Project Overview
 
 The goal of this project is to transform raw product data into actionable business insights. It covers everything from initial table schema creation to advanced analysis like inventory weight distribution and price-per-gram value assessments.
