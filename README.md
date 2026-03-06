@@ -6,10 +6,10 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) and Data Cle
 ```text
 ├── data/
 │   └── zepto_v2.csv
+├── screenshots/
+│   └── query_results_screenshot.png
 ├── scripts/
 │   └── zepto Data Analysis.sql
-├── output_samples/
-│   └── query_results_screenshot.png
 └── README.md
 
 
