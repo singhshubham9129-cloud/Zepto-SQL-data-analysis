@@ -5,9 +5,9 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) and Data Cle
 ## 📂 Project Structure
 ```text
 ├── data/
-│   └── zepto_sales_data.csv
+│   └── zepto_v2.csv
 ├── scripts/
-│   └── zepto_analysis.sql
+│   └── zepto Data Analysis.sql
 ├── output_samples/
 │   └── query_results_screenshot.png
 └── README.md
