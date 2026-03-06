@@ -44,6 +44,6 @@ Database: PostgreSQL
 Language: SQL
 
 Screenshots:
-
+https://github.com/singhshubham9129-cloud/Zepto-SQL-data-analysis/tree/main/screenshots 
 
 
